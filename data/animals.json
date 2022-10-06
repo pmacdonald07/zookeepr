@@ -127,6 +127,24 @@
         "quirky"
       ],
       "id": "12"
+    },
+    {
+      "name": "Ziggy",
+      "species": "cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "josie",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
